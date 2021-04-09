@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+.terraform
+*.pyc
+Pipfile.lock
+__pycache__
